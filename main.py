@@ -13,8 +13,8 @@ import functions
 
 
 
-PASSWORD = 'bbc298'
-USERNAME = 'itftkb'
+PASSWORD = 'sousuzuki'
+USERNAME = 'hitachip'
 
 
 # パスワードなどをセッションで保存
